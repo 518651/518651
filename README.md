@@ -1,4 +1,5 @@
 ![Stat](https://img.shields.io/github/followers/518651?style=social)
+![st](https://img.shields.io/github/forks/518651/0x7E9FB-Net-Project?style=social)
 ### Hey,friend 👋!Walcome to my GIT home page.
 
 # I come from Wuhan, CHINA.😄
