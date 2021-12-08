@@ -1,3 +1,4 @@
+![Stat](https://img.shields.io/github/followers/518651?style=social)
 ### Hey,friend 👋!Walcome to my GIT home page.
 
 # I come from Wuhan, CHINA.😄
