@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=518651&show_icons=true&theme=gruvbox&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=518651&show_icons=true&theme=tokyonight&locale=cn)
 <!--
 **518651/518651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
