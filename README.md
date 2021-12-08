@@ -1,6 +1,4 @@
-### Hi friend 👋
-
-## Hey!Walcome to my GIT home page.
+### Hey,friend 👋!Walcome to my GIT home page.
 
 # I come from Wuhan, CHINA.😄
 
