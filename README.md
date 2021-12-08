@@ -13,8 +13,9 @@ If u also like network safety, you can contact me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=518651&show_icons=true&theme=algolia&locale=cn)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=WaotoCry&show_owner=518651)](https://github.com/518651/WaotoCry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=AUTO-AI-GUI&show_owner=518651)](https://github.com/518651/AUTO-AI-GUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=WZ_AI_SERVER_FTP&show_owner=518651)](https://github.com/518651/WZ_AI_SERVER_FTP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=AUTO-AI-GUI&show_owner=518651)](https://github.com/518651/AUTO-AI-GUI)
+
 <!--
 **518651/518651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
