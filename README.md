@@ -17,6 +17,7 @@ If u also like network safety, you can contact me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=WaotoCry&show_owner=518651)](https://github.com/518651/WaotoCry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=WZ_AI_SERVER_FTP&show_owner=518651)](https://github.com/518651/WZ_AI_SERVER_FTP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=AUTO-AI-GUI&show_owner=518651)](https://github.com/518651/AUTO-AI-GUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=518651&repo=BiliBili_DanMu_Game_Project&show_owner=518651)](https://github.com/518651/BiliBili_DanMu_Game_Project)
 
 
 
