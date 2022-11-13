@@ -6,9 +6,7 @@
 </h1>
 
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
+
 
 <!-- 个人资料徽标 -->
 
@@ -146,18 +144,6 @@
   </tr>
 </table>
 
-<!-- Dynamic Heatmap -->
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-</table>
 
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
