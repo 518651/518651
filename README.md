@@ -121,6 +121,12 @@
 <tr>
 <td valign="top">  
 
+<!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
+
+  
 
 <!-- GitHub Activity Graph -->
 <table align="center">
